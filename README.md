@@ -8,6 +8,7 @@
 - **[Les installations](#installations)**
 - **[L'appli: étape par étape](#appli)**
 - **[Mise en ligne de l'application](#en-ligne)**
+- **[Aller plus loin](#ressources)**
 ## La demo de l'appli <a id="demo"></a>
 ![](Gif-demoapp.gif)
 ## Les installations <a id="installations"></a>
