@@ -128,8 +128,6 @@ Copiez ce code dans Main.js :
 
 	}
 
-  
-
 	const styles = StyleSheet.create({
 
 		container:  {
@@ -245,3 +243,17 @@ Copiez ce code dans Main.js :
 			fontWeight:  'bold'
 		}
 	});
+
+### Le composant App.js (composant principal qui va permettre d'afficher les deux autres) :
+Remplacer son contenu par :
+
+    import React from  'react';
+	import Main from  './app/components/Main';
+
+	export  default  class  App  extends  React.Component  {
+		render()  {
+			return (
+				<Main  />
+			);
+		}
+	}
