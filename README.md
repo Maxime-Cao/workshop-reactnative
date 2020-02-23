@@ -190,7 +190,7 @@ Copiez ce code dans Main.js :
 		},
 	});
 ### Le composant Note.js :
-Copiez ce code dans Main.js :
+Copiez ce code dans Note.js :
 
     import React from  'react';
 	import  {  StyleSheet,  Text,  View,  TextInput,  ScrollView,  TouchableOpacity  }  from  'react-native';
