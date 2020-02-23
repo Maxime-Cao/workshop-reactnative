@@ -267,7 +267,7 @@ Cela va mettre en ligne votre appli à l'adresse indiquée dans votre terminal, 
 => Grâce à ça n'importe qui possédant l'appli Expo pourra se rendre sur le lien ci-dessus, tombera sur un site web et pourra scanner un QR code qui lui donnera accès à votre appli via Expo.
 ## Quelques ressources pour aller plus loin <a id="ressources"></a>
 ### Rendre votre appli disponible pour un store (Play Store / Apple Store) :
-[Lien pour les configurations]([https://docs.expo.io/versions/v36.0.0/workflow/publishing/](https://docs.expo.io/versions/v36.0.0/workflow/publishing/))
+- **[Lien pour les configurations](https://docs.expo.io/versions/v36.0.0/workflow/publishing/)**
 ### Enregistrer les données dans la mémoire du téléphone :
 Pour l'instant, dès qu'on quitte notre appli, toutes les notes ne sont pas enregistrées sur le téléphone. Le contenu de l'appli se réinitialise à chaque fois qu'on la relance. Pour éviter ça :
-[AsyncStorage]([https://facebook.github.io/react-native/docs/asyncstorage](https://facebook.github.io/react-native/docs/asyncstorage))
+- **[AsyncStorage](https://facebook.github.io/react-native/docs/asyncstorage/)**
