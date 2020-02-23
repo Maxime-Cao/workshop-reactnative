@@ -49,13 +49,13 @@ Et puis faire :
 Une fois le serveur de développement lancé, une page web devrait s'ouvrir dans votre navigateur (à l'adresse localhost:19002) :
 - Ouvrez l'application Expo sur votre téléphone
 - Choisissez l'option "Scan QR Code" et scanner le code QR qui est sur la page web ouverte devant vous (localhost:19002)
-- Un lien va se faire entre votre mobile et votre ordinateur. A chaque changement que vous allez faire dans votre code, vous en rendez un "rendu" en temps-réel
+- Un lien va se faire entre votre mobile et votre ordinateur. A chaque changement que vous allez faire dans votre code, vous aurez un "rendu" en temps-réel
 
 Pour terminer, ouvrez le contenu du dossier my-app dans votre éditeur de code.
 
 ## Développement de l'appli <a id="appli"></a>
 ### Création des dossiers et fichiers :
-- A la racine du dossier créez un dossier 'app'
+- A la racine du dossier my-app, créez un dossier 'app'
 - Dans le dossier 'app', créez un dossier 'components'
 - Dans le dossier 'components', créez deux fichiers (deux components) => Main.js / Note.js
 
@@ -247,7 +247,7 @@ Copiez ce code dans Note.js :
 	});
 
 ### Le composant App.js (composant principal qui va permettre d'afficher les deux autres) :
-Remplacer son contenu par :
+Remplacez son contenu par :
 
     import React from  'react';
 	import Main from  './app/components/Main';
