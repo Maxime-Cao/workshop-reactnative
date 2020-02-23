@@ -9,3 +9,11 @@
 ## La demo de l'appli <a id="demo"></a>
 ![](Gif-demoapp.gif)
 ## Les installations <a id="installations"></a>
+Vérifier si npm est bien installé sur votre machine :
+
+    npm -v
+    
+Si ce n'est pas le cas :
+
+    npm install npm@latest -g
+
