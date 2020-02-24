@@ -271,3 +271,6 @@ Cela va mettre en ligne votre appli à l'adresse indiquée dans votre terminal, 
 ### Enregistrer les données dans la mémoire du téléphone :
 Pour l'instant, dès qu'on quitte notre appli, toutes les notes ne sont pas enregistrées sur le téléphone. Le contenu de l'appli se réinitialise à chaque fois qu'on la relance. Pour éviter ça :
 - **[AsyncStorage](https://facebook.github.io/react-native/docs/asyncstorage/)**
+### Utiliser un émulateur de téléphone mobile pour développer :
+- **[Android Studio](https://docs.expo.io/versions/v36.0.0/workflow/android-studio-emulator/)**
+- **[iOS Simulator](https://docs.expo.io/versions/v36.0.0/workflow/ios-simulator/)**
